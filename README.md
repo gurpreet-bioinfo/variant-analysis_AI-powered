@@ -12,15 +12,15 @@
 2. #### 🛠️ Freeely available web-based tools: 
     1. HumanBase 
         - An interactive AI platform for human biology that uses tissue‑specific gene networks to predict functional impacts
-        - 🌐 [humanbase.io](https://humanbase.io/)
+        - [humanbase.io](https://humanbase.io/)
         - Ref: [Nature Methods 2026](https://pubmed.ncbi.nlm.nih.gov/41535395/)
     2. FAVOR-GPT
         - A generative AI interface to FAVOR (Functional Annotation of genomic Variants Online Resources)
-        - 🌐 [favor.genohub.org](https://favor.genohub.org) 
+        - [favor.genohub.org](https://favor.genohub.org) 
         - Ref: [Bioinformatics Advances 2024](https://pubmed.ncbi.nlm.nih.gov/39387060/)
     3. VarChat 
         - A generative AI assistant for variant literature and summary
-        - 🌐 [varchat.engenome.com](https://varchat.engenome.com/) 
+        - [varchat.engenome.com](https://varchat.engenome.com/) 
         - Ref: [Bioinformatics 2024](https://pubmed.ncbi.nlm.nih.gov/38579245)
 
 3. #### 💻 Together, these tools span the core steps of an AI-powered variant analysis workflow:
