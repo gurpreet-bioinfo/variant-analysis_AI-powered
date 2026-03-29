@@ -9,7 +9,7 @@
     2. Harnessing artificial intelligence for genomic variant prediction: advances, challenges, and future directions 
         - Ref: [Gigascience 2026](https://pubmed.ncbi.nlm.nih.gov/41518203/)
 
-2. #### 🛠️ Freeely available web-based tools: 
+2. #### 🛠️ Freely available web-based tools: 
     1. HumanBase 
         - An interactive AI platform for human biology that uses tissue‑specific gene networks to predict functional impacts
         - [humanbase.io](https://humanbase.io/)
